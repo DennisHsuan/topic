@@ -1,5 +1,5 @@
 # <p align="center">木葉商城</p>
-## 專案完整介紹影片：
+## 專案完整介紹影片：https://www.youtube.com/watch?v=a6QtKTl5-sc
 ## 流程圖
 ![image](https://user-images.githubusercontent.com/110946641/206617312-8da65f11-8a23-4ad0-927a-97d9cd330ade.png)
 ## 專案內容說明
